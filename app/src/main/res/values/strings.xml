@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GraphQLDemo</string>
+    <string name="add_todo">Add ToDo</string>
+    <string name="todo">ToDo</string>
+</resources>
